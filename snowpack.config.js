@@ -6,7 +6,7 @@ module.exports = {
     target: 'es2020',
     treeshake: true,
   },
-  packageOptions: { source: 'remote' },
+  packageOptions: { source: 'remote', types: true },
   plugins: [
     '@snowpack/plugin-sass',
     '@snowpack/plugin-dotenv',

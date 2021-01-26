@@ -62,7 +62,7 @@
     "baseUrl": "./",
     "paths": {
       "*": [
-        ".snowpack/.snowpack/types/*"
+        ".snowpack/types/*"
       ]
     }
   }
