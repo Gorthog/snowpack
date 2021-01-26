@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "": "snowpack/plugin-typescript",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "lock": {
+    "#snowpack/plugin-typescript": "@snowpack/plugin-dotenv@v2.0.5-KpadUDBRD40gDhAgtTRv",
+    "react#^17.0.1": "react@v17.0.1-tOtrZxBRexARODgO0jli",
+    "react-dom#^17.0.1": "react-dom@v17.0.1-DtIXT56q6U8PbgLMrBhE"
+  }
+}
